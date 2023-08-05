@@ -2,7 +2,7 @@ package com.webhook.whatsapp.util;
 
 public class Constant {
     //twilio authentication details
-    public static final String ACCOUNT_SID = "AC636d5c041b9e7a9afefc8e860b58ef97";
+    public static final String ACCOUNT_SID = "ACCOUNT_SID";
     public static final String AUTH_TOKEN = "1edb31ba43cac430df5d39c447b5383c";
     public static final String TWILIO_NUMBER = "whatsapp:+14155238886";
 
